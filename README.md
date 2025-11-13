@@ -49,5 +49,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
+<img width="971" height="672" alt="image" src="https://github.com/user-attachments/assets/1f29c084-50d1-41f7-beb4-9df1313607eb" />
+
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
